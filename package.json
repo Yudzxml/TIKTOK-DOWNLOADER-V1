@@ -11,5 +11,10 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",  // Versi terbaru, sesuaikan jika perlu
+    "@types/react": "^18.0.0", // Versi terbaru, sesuaikan jika perlu
+    "@types/node": "^18.0.0"   // Versi terbaru, sesuaikan jika perlu
   }
 }
